@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "generation"
+		},
+		{
+			"path": "persistence"
+		},
+		{
+			"path": "rest-api"
+		},
+		{
+			"path": "frontend"
+		}
+	],
+	"settings": {}
+}
